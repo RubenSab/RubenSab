@@ -7,4 +7,4 @@ You can click the Preview link to take a look at your changes.
 |:-------------------------------------------------------:|:--------------------------------------------------------:|
 | 👀                                                      |I’m interested in **programming** and **making websites** |
 | I’m currently learning **_python_** and **_html/css_**  |🌱                                                        |
-| 📫                                                      |How to reach me ...                                       |
+| 📫                                                      |mail: rubensabatini2005@gmail.com                         |
